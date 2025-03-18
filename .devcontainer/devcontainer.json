@@ -1,0 +1,26 @@
+{
+    "name": "Stata18 Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "mounts": [
+        "type=bind,source=${localWorkspaceFolder}/.devcontainer/stata.lic,target=/usr/local/stata/stata.lic"
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "james-yu.latex-workshop",
+                "github.copilot",
+                "valentjn.vscode-ltex"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/bin/python3"
+            }
+        }
+    },
+    "remoteEnv": {},
+    "initializeCommand": "test -d /Users/nicholashallman/Documents || mkdir -p /tmp/empty_documents_dir",
+    "overrideCommand": true
+}

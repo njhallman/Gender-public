@@ -1,0 +1,77 @@
+\ProvidesPackage{preamble}
+
+\usepackage{comment} % Allow for commenting out blocks of code
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.0in]{geometry} % Set page margins
+\usepackage[flushleft]{threeparttable}
+\usepackage{makecell}
+\usepackage[hang,flushmargin]{footmisc} % Format footnotes
+\usepackage{longtable} % Allow "longtable" format, which lets long tables span multiple pages automatically
+\usepackage{booktabs}
+\usepackage[T1]{fontenc}
+\usepackage{rotating}
+\usepackage{adjustbox}
+\usepackage{dcolumn} % For the D column specifier in tabular
+\usepackage{mathptmx}
+\usepackage{authblk}
+\usepackage[useregional]{datetime2}
+\usepackage{ragged2e} 
+\usepackage{amsmath}
+\usepackage[capposition=top]{floatrow} % Helps center tables somehow
+\usepackage[colorlinks,allcolors=blue]{hyperref} % Create internal links
+\usepackage{pdflscape} % Allow some pages to be landscape
+\usepackage{setspace} % Allow for double spacing 
+\usepackage[justification=centering,large]{caption}
+\usepackage{charter} % font
+\usepackage{indentfirst}\setlength\parindent{1cm} %indent first paragraph of sections
+\usepackage{datetime}
+\usepackage{datetime2}
+
+
+\usepackage{changepage}
+
+\renewcommand{\theequation}{\textit{Eq. \arabic{equation}}} 
+
+% Allow line breaks with \\ in specialcells
+	\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+    
+
+% Format Citations
+\bibliographystyle{plain}
+\usepackage[backend=biber, style=authoryear, uniquename=false, uniquelist=true, sorting=ynt, sortcites=true, maxbibnames=10, giveninits=true, doi=false,isbn=false]{biblatex}
+        \renewbibmacro{in:}{}
+        \addbibresource{references.bib}
+\AtEveryBibitem{\clearfield{month}}
+\AtEveryBibitem{\clearfield{day}}
+\makeatletter
+\AtEveryBibitem{\global\undef\bbx@lasthash}
+\makeatother
+\DeclareFieldFormat*{title}{#1} % Remove quotes from the title
+\DeclareNameAlias{author}{family-given} % Use last name first for all authors
+\DeclareFieldFormat{journaltitle}{#1\isdot} % Journal name not italicized
+\DeclareFieldFormat{pages}{#1} % Remove "pp" before pages
+\AtEveryBibitem{%. % Suppress the issue number per JFE style examples
+    \ifboolexpr{test {\ifentrytype{article}}}
+    {\clearfield{number}}
+    {}%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
