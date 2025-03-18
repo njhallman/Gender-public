@@ -13,7 +13,7 @@ This code creates the paper at https://papers.ssrn.com/sol3/papers.cfm?abstract_
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/njhallman/Gender.git
+   git clone https://github.com/njhallman/Gender-public.git
    cd repository-name
    ```
 
