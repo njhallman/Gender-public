@@ -1,0 +1,619 @@
+university_name,unique_users
+University of Phoenix-Arizona,28651
+The Pennsylvania State University-Main Campus,21211
+The University of Texas at Austin,19189
+The Leonard N Stern School of Business,18809
+Wharton School of Business at University of Pennsylvania,17257
+Texas A&amp;M University,17175
+University of Southern California,16692
+University of Illinois at Urbana-Champaign,16167
+University of Florida,15406
+Baruch College of the City University of New York,14892
+New York University,14497
+The University of Chicago Booth School of Business,13995
+Arizona State University,13459
+DePaul University,13345
+Columbia University in the City of New York,12892
+Northeastern University,12850
+University of California Los Angeles,12764
+University of Wisconsin-Madison,12691
+University of Maryland College Park,12408
+University of California Berkeley,12255
+Bentley University,12224
+Indiana University Bloomington,12100
+Harvard Business School,11516
+Kelley School of Business,11381
+San Diego State University,11355
+Columbia Business School,11348
+The Ohio State University,11303
+Kellogg School of Management at Northwestern University,11248
+Cornell University,10855
+Florida State University,10567
+Villanova University,10453
+Brigham Young University,10288
+Michigan State University,10134
+University of Houston,10099
+University of South Florida,10044
+University of Washington,9730
+Miami University,9631
+Stephen M. Ross School of Business,9592
+University of Iowa,9584
+Northern Illinois University,9403
+University of Colorado-Boulder,9341
+Boston University,9223
+University of Michigan,9140
+University of Central Florida,9082
+University of Virginia,8961
+Boston College,8807
+Purdue University,8777
+University of Minnesota Duluth,8721
+University of North Carolina at Chapel Hill,8713
+University of California Santa Barbara,8675
+California State University-Northridge,8622
+University of South Carolina,8546
+The University of Connecticut,8496
+University of North Texas,8458
+Southern New Hampshire University,8404
+School of Law at Rutgers University-Newark,8216
+University of Chicago,8070
+USC Marshall School of Business,8066
+San Jose State University,8030
+University of Alabama,7970
+Florida International University,7955
+University of Notre Dame,7953
+"California State University, Fullerton",7824
+McCombs School of Business at the University of Texas at Austin,7762
+University of Missouri-Columbia,7662
+Virginia Polytechnic Institute and State University,7657
+Louisiana State University and Agricultural and Mechanical College,7570
+University of Illinois at Chicago,7383
+Georgia State University,7300
+Georgetown University,7249
+The University of Arizona,7210
+University of Georgia,7123
+Joseph I. Lubin School of Business,7086
+Illinois State University,7083
+Florida Atlantic University,7046
+Golden Gate University,7027
+Colorado State University,6955
+Keller Graduate School of Management of DeVry University,6930
+University of Pennsylvania,6930
+University of St. Thomas,6928
+The University of Texas at Dallas,6923
+Western Governors University,6896
+Terry College of Business,6855
+The Curtis L. Carlson School of Management,6785
+North Carolina State University,6782
+University of Delaware,6744
+University of Massachusetts Amherst,6592
+Texas Tech University,6405
+Northwestern University,6267
+Harvard University,6200
+St. John’s University,6177
+Oklahoma State University,6170
+California Polytechnic State University-San Luis Obispo,6147
+Hofstra University,6108
+Georgia Institute of Technology,6098
+University of Pittsburgh,6077
+Fisher College of Business,6053
+University of Kentucky,6014
+Stanford University,5977
+Auburn University,5977
+Temple University,5969
+Gabelli School of Business,5954
+W.P. Carey School of Business,5866
+Fordham University,5827
+University of Nebraska-Lincoln,5820
+Liberty University,5814
+State University of New York at Binghamton,5811
+Southern Methodist University,5794
+California State University-Sacramento,5789
+"California State University, Long Beach",5782
+Texas State University,5744
+The University of Texas at Arlington,5736
+University of North Carolina at Charlotte,5702
+The George Washington University,5698
+University at Albany-State University of New York,5692
+The University of Tennessee-Knoxville,5685
+Bryant University,5675
+University of Kansas,5575
+Western Michigan University,5556
+The Fuqua School of Business,5526
+San Francisco State University,5492
+Santa Clara University,5474
+Suffolk University,5449
+Ohio University,5446
+University of California Davis,5445
+Haas School of Business,5410
+Fairleigh Dickinson University,5356
+James Madison University,5237
+University of Arkansas,5217
+University of Maryland University College,5162
+University of Mississippi,5157
+Clemson University,5059
+University of Oklahoma,5019
+Babson College,5007
+Marquette University,4990
+J. Mack Robinson College of Business at Georgia State University,4979
+George Mason University,4956
+Strayer University,4947
+Arthur W. Buerk Center for Entrepreneurship,4920
+Saint Joseph's University,4914
+Kansas State University,4911
+The University of Texas at San Antonio,4889
+DePaul Driehaus College of Business,4882
+Loyola University Chicago,4874
+University of Wisconsin-Whitewater,4871
+University of Wisconsin-Milwaukee,4846
+Central Michigan University,4830
+Goizueta Business School-Emory,4830
+American University,4828
+The University of Utah,4797
+University of Cincinnati,4782
+Mendoza College of Business,4773
+Webster University,4746
+Drexel University,4730
+University of San Diego,4727
+Southern Methodist University - Cox School of Business,4708
+Nova Southeastern University,4653
+Cleveland State University,4648
+Robert H. Smith School of Business,4640
+Duke University,4631
+Fox School of Business,4615
+West Virginia University,4604
+University of California San Diego,4603
+Wake Forest University,4555
+Stanford Graduate School of Business,4549
+State University of New York at Buffalo,4519
+Towson University,4504
+University of California Irvine,4499
+University of Dayton,4498
+Loyola University Maryland,4458
+Wayne State University,4440
+Boston University School of Medicine,4437
+Baylor University,4370
+The University of Akron,4317
+Washington State University,4305
+Seton Hall University,4305
+Gies College of Business,4304
+Wallace E Carroll School of Management,4269
+Ball State University,4263
+Pace University,4262
+Yale University,4239
+University of Miami,4223
+Kent State University,4214
+University of Oregon,4192
+University of San Francisco,4160
+Portland State University,4146
+Queens College of the City University of New York,4125
+Vanderbilt University,4111
+Iowa State University,4093
+Fairfield University,4082
+Xavier University,4073
+C. T. Bauer College of Business,4068
+University of Denver,4067
+University of Colorado-Denver/Anschutz Medical Campus,4061
+Bowling Green State University,4056
+Walsh College,4054
+Lehigh University,4052
+Syracuse University,4031
+Massachusetts Institute of Technology,4008
+Missouri State University,3990
+University of North Florida,3988
+Appalachian State University,3941
+Grand Canyon University,3900
+DeVry University Illinois,3863
+The University of Memphis,3837
+Oregon State University,3833
+Sam Houston State University,3832
+Johns Hopkins University,3823
+Washington University in St. Louis,3813
+David Eccles School of Business,3797
+Saint Louis University,3786
+California State Polytechnic University-Pomona,3782
+University of Virginia Darden School of Business,3777
+California State University-East Bay,3703
+Montclair State University,3692
+Grand Valley State University,3688
+McDonough School of Business,3662
+Regis University,3631
+Miami Herbert Business School,3620
+University of Missouri-Saint Louis,3613
+Long Island University,3601
+Texas Christian University,3540
+School of Business at the George Washington University,3523
+Providence College,3489
+University of Nevada-Las Vegas,3467
+University of Northern Iowa,3466
+Brooklyn College of the City University of New York,3464
+East Carolina University,3445
+West Chester University of Pennsylvania,3424
+Virginia Commonwealth University,3394
+"Southern Illinois University, Carbondale",3375
+Robert Morris University,3368
+Pepperdine Graziadio Business School,3367
+Rider University,3356
+Middle Tennessee State University,3319
+La Salle University,3302
+St. Cloud State University,3293
+University of California Riverside,3291
+Rutgers University-Newark,3271
+University of Louisville,3263
+Eastern Michigan University,3257
+University of Missouri-Kansas City,3253
+Tepper School of Business,3233
+Kennesaw State University,3232
+The Isenberg School of Management,3227
+University of Hartford,3220
+California State University-Los Angeles,3217
+California State University-Chico,3217
+University of North Carolina Wilmington,3206
+University of Nebraska at Omaha,3195
+Princeton University,3176
+Johnson Graduate School of Management,3176
+Drake University,3171
+A.B. Freeman School of Business,3153
+School of Business at the University of Connecticut,3141
+College of William and Mary,3138
+University of Alabama at Birmingham,3085
+University of Toledo,3084
+Mississippi State University,3083
+Texas Tech University - Rawls College of Business,3075
+Florida International University College of Business,3056
+Dartmouth College,3049
+Iona University,3036
+Duquesne University,3033
+Craig School of Business,3033
+National University,3024
+State University of New York at Stony Brook,3013
+Seattle University,2997
+Minnesota State University Mankato,2987
+Daniels College of Business,2985
+Wisconsin School of Business,2971
+Carnegie Mellon University,2938
+University of New Orleans,2919
+Thunderbird School of Global Management,2909
+University of Arizona Global Campus,2908
+Franklin University,2878
+Northern Arizona University,2861
+University of New Hampshire,2858
+MIT Sloan School of Management,2853
+University of Rhode Island,2840
+Vanderbilt Owen Graduate School of Management,2830
+Lebow College of Business,2821
+Carl H. Lindner College of Business,2805
+Brown University,2798
+Baylor University - Hankamer School of Business,2795
+University of Vermont,2787
+Syracuse University - Martin J. Whitman School of Management,2774
+Florida State University - College of Business,2763
+University of Rochester Simon Business School,2751
+University of Wisconsin-Eau Claire,2750
+Bucknell University,2743
+Western Washington University,2730
+Mays Business School,2728
+Tuck School of Business at Dartmouth,2722
+University of Baltimore,2713
+Washington University in St. Louis - Olin Business School,2708
+Central Washington University,2701
+Stephen F. Austin State University,2693
+Indiana University of Pennsylvania,2686
+Chapman University,2666
+Indiana Wesleyan University,2624
+University of Massachusetts Boston,2611
+Tulane University,2609
+Old Dominion University,2602
+Pepperdine University,2601
+Roosevelt University,2597
+Loyola Marymount University,2581
+Georgia Southern University,2570
+Boise State University,2565
+University of North Carolina at Greensboro,2561
+University of Scranton,2555
+Central Connecticut State University,2548
+Capella University,2540
+Rochester Institute of Technology,2537
+University of Houston-Clear Lake,2537
+Siena College,2534
+Widener University,2522
+John Carroll University,2507
+"Southern Illinois University, Edwardsville",2497
+Eastern Illinois University,2494
+University of Wisconsin-Oshkosh,2493
+Oakland University,2492
+Babson F.W. Olin Graduate School of Business,2470
+University of North Dakota,2468
+Utah State University,2464
+Saint Mary's College of California,2459
+Eli Broad College of Business,2450
+Adelphi University,2448
+Wright State University,2431
+Texas A&amp;M University-Commerce,2424
+University of Tampa,2423
+University of Massachusetts Lowell,2412
+Creighton University,2408
+University of Nevada-Reno,2382
+Metropolitan State University of Denver,2366
+University of Houston-Downtown,2352
+Emory University,2350
+Eller College of Management,2348
+Wichita State University,2343
+Western Illinois University,2336
+Purdue University Global,2309
+Rowan University,2303
+D'Amore-Mckim School of Business,2292
+University of California Santa Cruz,2287
+College of Charleston,2271
+Paul Merage School of Business,2254
+The College of New Jersey,2230
+Canisius College,2228
+Joseph M. Katz Graduate School of Business,2203
+Yale School of Management,2201
+Butler University,2190
+University of Hawaii at Mänoa,2190
+Monmouth University,2174
+Quinnipiac University,2164
+Wake Forest School of Business,2149
+Walden University,2141
+Wilmington University,2141
+University of Northern Colorado,2133
+University of Richmond,2133
+University of South Dakota,2133
+University of Central Oklahoma,2130
+Carey Business School,2127
+Sacred Heart University,2123
+Tufts University,2105
+State University of New York College at Oswego,2083
+Peter J. Tobin College of Business,2077
+Rutgers University-New Brunswick,2069
+Troy University,2060
+Marist College,2059
+Washington and Lee University,2053
+University of Wisconsin-La Crosse,2049
+Rice University,2047
+Jesse H Jones Graduate School of Business,2040
+Weatherhead School of Management,2030
+Baldwin Wallace College,2009
+Gonzaga University,2009
+College of the Holy Cross,2005
+University of Dallas,1995
+New Mexico State University,1993
+Northern Kentucky University,1991
+University of Wyoming,1969
+The University of Tennessee-Chattanooga,1946
+Colorado Technical University,1941
+Coles College of Business,1910
+Pamplin College of Business,1907
+Hunter College of the City University of New York,1907
+University of Southern Mississippi,1907
+University of Louisiana at Lafayette,1886
+Sonoma State University,1883
+Opus College of Business,1881
+Saint John's University,1880
+University of New Haven,1872
+The Neeley School of Business,1871
+Bradley University,1859
+AIU Online LLC,1859
+Johnson and Wales University-Providence,1858
+Colgate University,1849
+Kean University,1848
+Montana State University,1842
+Shippensburg University of Pennsylvania,1841
+University of Rochester,1839
+Western Kentucky University,1838
+Bellevue University,1837
+Bloomsburg University of Pennsylvania,1836
+William Paterson University of New Jersey,1828
+Youngstown State University,1828
+The University of Texas at El Paso,1818
+Case Western Reserve University,1806
+Utah Valley University,1800
+Western New England University,1798
+Saint Leo University,1794
+Stevens Institute of Technology,1794
+Weber State University,1793
+Stetson University,1791
+The University of New Mexico,1783
+Harvard Law School,1779
+University of Maine,1778
+Indiana University-Purdue University Indianapolis,1767
+George Mason School of Business,1766
+University of Tulsa,1750
+Lindenwood University,1745
+Howard University,1744
+North Dakota State University,1740
+Rockhurst University,1728
+Lundquist College of Business,1718
+Metropolitan State University,1717
+Truman State University,1710
+Ithaca College,1672
+Mason School of Business of The College of William & Mary,1671
+University of Idaho,1632
+Louisiana State University-Shreveport,1631
+Brigham Young University-Idaho,1631
+Columbia College,1630
+Northwood University,1624
+Eastern Washington University,1623
+University of Redlands,1623
+Salisbury University,1621
+Rensselaer Polytechnic Institute,1609
+University of Massachusetts Dartmouth,1609
+St. Bonaventure University,1607
+Abilene Christian University,1600
+The University At Buffalo School of Management,1599
+New York Institute of Technology,1597
+Georgetown University Law Center,1594
+Louisiana Tech University,1594
+West Texas A&amp;M University,1587
+Davenport University,1581
+Mihaylo College of Business & Economics,1579
+Trinity College,1579
+Mercer University,1570
+Price College of Business,1560
+State University of New York College at Geneseo,1558
+University of La Verne,1557
+California State University-San Bernardino,1555
+Southeastern Louisiana University,1554
+Haslam College of Business,1547
+London School of Economics and Political Science - University of London,1544
+Fordham University School of Law,1541
+Lamar University,1537
+Marshall University,1525
+Iowa State University - Ivy College of Business,1525
+The University of Montana,1523
+Indiana State University,1522
+Yeshiva University,1514
+Quinlan School of Business,1501
+New York University School of Law,1491
+Western Carolina University,1490
+Manhattan College,1489
+University of West Florida,1488
+Northeastern Illinois University,1476
+East Tennessee State University,1469
+Middlebury College,1468
+Benedictine University,1467
+Belmont University,1442
+Saint Edward's University,1440
+University of Southern Indiana,1432
+University of Mumbai,1431
+Merrimack College,1430
+University of Central Missouri,1430
+Alfred Lerner College of Business & Economics,1430
+University of Arkansas at Little Rock,1428
+Le Moyne College,1409
+Ferris State University,1405
+London Business School,1402
+Rutgers University-Camden,1400
+Texas A&amp;M University-Corpus Christi,1398
+University of Michigan-Dearborn,1395
+Lehigh University’S College of Business & Economics,1393
+Ramapo College of New Jersey,1392
+Florida Gulf Coast University,1390
+Illinois Institute of Technology,1385
+University of Colorado-Colorado Springs,1375
+Radford University,1364
+Samford University,1362
+Florida Institute of Technology,1357
+University of Toronto,1356
+Murray State University,1352
+Trinity University,1352
+Texas Woman's University,1350
+St. John Fisher University,1345
+Florida Agricultural and Mechanical University,1337
+Minnesota State University Moorhead,1335
+Stockton University,1334
+UCF College of Business,1329
+Elon University,1321
+Dowling College,1319
+Saint Peter's University,1319
+State University of New York College at Brockport,1315
+Columbia Law School,1309
+Valdosta State University,1307
+Salem State University,1307
+Tarleton State University,1306
+Colorado State University-Global Campus,1296
+Eastern Kentucky University,1292
+California Lutheran University,1287
+Mount Saint Mary's University,1282
+Stonehill College,1281
+Augustana College,1280
+Southern Utah University,1277
+Maryville University of Saint Louis,1273
+Union College,1272
+Ashland University,1271
+Winthrop University,1268
+University of West Georgia,1268
+Anderson School of Management,1265
+Brandeis University,1261
+Lewis University,1260
+Embry-Riddle Aeronautical University-Worldwide,1257
+University of Detroit Mercy,1257
+Tennessee Technological University,1255
+California State University-Dominguez Hills,1244
+Lafayette College,1244
+Robins E. Claiborne School of Business,1243
+University of Central Arkansas,1234
+Arkansas State University,1234
+State University of New York at Oneonta,1232
+Dallas Baptist University,1223
+University of Oxford,1221
+Baker University,1221
+Southeast Missouri State University,1220
+Lakeland University,1215
+Peter T Paul College of Business & Economics,1214
+Gettysburg College,1212
+Kutztown University of Pennsylvania,1208
+Claremont McKenna College,1207
+Capital University,1204
+Southern Connecticut State University,1200
+VCU School of Business,1192
+California State University-San Marcos,1191
+Williams College,1188
+Elmhurst University,1184
+University of Maryland Baltimore County,1181
+McGill University,1178
+New Jersey Institute of Technology,1168
+University of the Incarnate Word,1165
+State University of New York at New Paltz,1158
+Auburn University Raymond J. Harbert College of Business,1158
+Valparaiso University,1154
+Park University,1144
+Bellarmine University,1137
+Rollins College,1134
+Winona State University,1131
+Niagara University,1131
+Brigham Young University Marriott School of Business,1128
+University of South Alabama,1127
+Mercy College,1126
+Nichols College,1120
+Clark University,1117
+Brooklyn Law School,1117
+University of Illinois at Springfield,1115
+Campbell University,1113
+Georgia College and State University,1108
+North Central College,1106
+Lipscomb University,1105
+The City University of New York,1100
+Lehman College,1091
+Touro University,1086
+High Point University,1085
+Clarion University of Pennsylvania,1084
+Oklahoma City University,1081
+Loyola University New Orleans,1079
+Bethel University,1078
+Lubar College of Business,1071
+Upper Iowa University,1069
+State University College at Buffalo,1067
+State University of New York at Old Westbury,1064
+Pittsburg State University,1064
+New York Law School,1063
+Harding University,1062
+State University of New York College at Plattsburgh,1060
+University of Bridgeport,1058
+Franklin and Marshall College,1057
+Bridgewater State University,1056
+The University of Texas at Tyler,1053
+New Jersey City University,1053
+University of Portland,1051
+Utica University,1049
+Johns Hopkins University & Medicine,1048
+The Catholic University of America,1042
+Hamilton College,1038
+Idaho State University,1038
+Augsburg University,1032
+Illinois Wesleyan University,1030
+School of Engineering at Citadel Military College of South Carolina,1029
+California State University-Long Beach,1028
+Thomas Jefferson University,1027
+Emporia State University,1026
+University of Cambridge,1021
+Azusa Pacific University,1020
+Northeastern State University,1014
+Muhlenberg College,1014
+Northwest Missouri State University,1011
+Amherst College,1009
+St. Lawrence University,1007
+Hult International Business School,1006
+York College of Pennsylvania,1006
+Washburn University,1006
+Barry University,1004

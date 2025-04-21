@@ -1,0 +1,51 @@
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}p{13cm}}
+
+%----- Header/Footer Setup -----%
+%\captionsetup{labelfont=bf, singlelinecheck=off, justification=raggedright, labelsep=none}
+\caption{Variable definitions}
+
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+\endfirsthead
+
+\multicolumn{2}{l}%
+{{\textit{Continued from previous page}}} \\
+\midrule
+\endhead
+
+\multicolumn{2}{r}{{\textit{Continued on next page}}}
+\endfoot
+
+\multicolumn{2}{r}{{ }}
+\endlastfoot
+
+%----- Variable Definitions -----%
+
+\RETAINED & An indicator variable set equal to 1 if the professional remains with the firm the following year, 0 otherwise. \\
+\midrule
+
+\PROMOTED & An indicator variable set equal to 1 if the auditor is promoted to a higher rank in the following year, 0 otherwise. \\
+\midrule
+
+\FEMALE & An indicator variable set equal to 1 if the professional is classified as female by the \textit{sex\_predicted} field Revelio, and 0 otherwise. \\
+\midrule
+
+\MASTERS & An indicator variable set equal to 1 if the auditor holds a master's degree or higher, and 0 otherwise, according to the \textit{highest\_dgree} field in the Revelio data \\
+\midrule
+
+\TOPUNIV & An indicator variable set equal to 1 if the professional attended a top university as defined by \textcite{FGH2022}.\\
+\midrule
+
+\APIRACE & An indicator variable set equal to 1 if the professional is classified as API (i.e., Asian and Pacific Islander) by the \textit{ethnicity\_predicted} field in Revelio, 0 otherwise.\\
+\midrule
+
+\BLACKRACE & An indicator variable set equal to 1 if the professional is classified as Black by the \textit{ethnicity\_predicted} field in Revelio, 0 otherwise.\\
+\midrule
+
+\OTHERRACE & An indicator variable set equal to 1 if the professional is classified as any ethnicity other than API, Black, or White by the \textit{ethnicity\_predicted} field in Revelio, 0 otherwise.\\
+
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+
+\label{appendix:variableDefinitions}
+\end{longtable}
+
+

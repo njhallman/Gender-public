@@ -1,0 +1,28 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{2}{D{.}{.}{-1}}}
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{\shortstack{Auditors\\ DV = Retained}}&\multicolumn{1}{c}{\shortstack{Retained\\Auditors < Partner\\ DV = Promoted}}\\
+\midrule
+\FEMALE              &      -0.009\sym{***}&      -0.003         \\
+                    &     (0.001)         &     (0.002)         \\
+\FEMALExPREEQTHREE     &      -0.006         &      -0.002         \\
+                    &     (0.005)         &     (0.010)         \\
+\FEMALExPREEQTWO     &       0.008         &      -0.007         \\
+                    &     (0.005)         &     (0.009)         \\
+\FEMALExPREEQONE     &       0.008         &       0.008         \\
+                    &     (0.005)         &     (0.008)         \\
+\FEMALExPOSTEQ      &       0.017\sym{***}&       0.011\sym{***}\\
+                    &     (0.002)         &     (0.003)         \\
+\POSTEQ             &      -0.026\sym{***}&      -0.007\sym{*}  \\
+                    &     (0.002)         &     (0.003)         \\
+Constant            &       0.852\sym{***}&       0.163\sym{***}\\
+                    &     (0.001)         &     (0.002)         \\
+\midrule
+{Observations}      &     713,607         &     229,083         \\
+{Adjusted R-squared}&       0.005         &       0.033         \\
+{Fixed effects}     &       C,Y,E         &       C,Y,E         \\
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+\end{tabular}
+}

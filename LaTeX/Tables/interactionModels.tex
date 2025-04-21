@@ -1,0 +1,40 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{4}{D{.}{.}{-1}}}
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{\shortstack{Auditors\\ DV = Retained}}&\multicolumn{1}{c}{\shortstack{Other Financial Svc.\\ DV = Retained}}&\multicolumn{1}{c}{\shortstack{Investment Bankers\\ DV = Retained}}&\multicolumn{1}{c}{\shortstack{Credit Analysts\\ DV = Retained}}\\
+\midrule
+\FEMALExPREX     &      -0.012\sym{***}&      -0.003\sym{***}&      -0.021\sym{***}&       0.007\sym{***}\\
+                    &     (0.001)         &     (0.000)         &     (0.002)         &     (0.001)         \\
+\FEMALExXtoXI    &      -0.022\sym{***}&      -0.003\sym{***}&      -0.025\sym{***}&       0.010\sym{***}\\
+                    &     (0.003)         &     (0.001)         &     (0.006)         &     (0.003)         \\
+\FEMALExXIItoXIII    &      -0.011\sym{***}&      -0.003\sym{***}&      -0.016\sym{***}&       0.008\sym{***}\\
+                    &     (0.003)         &     (0.001)         &     (0.006)         &     (0.003)         \\
+\FEMALExXIVtoXV    &      -0.002         &      -0.003\sym{***}&      -0.031\sym{***}&       0.013\sym{***}\\
+                    &     (0.003)         &     (0.000)         &     (0.005)         &     (0.003)         \\
+\FEMALExXVItoXVII    &       0.010\sym{***}&      -0.003\sym{***}&      -0.026\sym{***}&       0.008\sym{***}\\
+                    &     (0.003)         &     (0.000)         &     (0.005)         &     (0.002)         \\
+\FEMALExXVIIItoXIX    &       0.011\sym{***}&      -0.003\sym{***}&      -0.017\sym{***}&       0.006\sym{***}\\
+                    &     (0.003)         &     (0.000)         &     (0.004)         &     (0.002)         \\
+\FEMALExPOSTXIX    &       0.009\sym{***}&      -0.004\sym{***}&      -0.019\sym{***}&       0.011\sym{***}\\
+                    &     (0.002)         &     (0.000)         &     (0.003)         &     (0.002)         \\
+\MASTERS      &      -0.018\sym{***}&      -0.004\sym{***}&      -0.005\sym{***}&      -0.012\sym{***}\\
+                    &     (0.001)         &     (0.000)         &     (0.001)         &     (0.001)         \\
+\TOPUNIVERSITY      &      -0.001         &      -0.006\sym{***}&      -0.018\sym{***}&      -0.004\sym{***}\\
+                    &     (0.001)         &     (0.000)         &     (0.001)         &     (0.001)         \\
+\APIRACE                 &      -0.006\sym{***}&      -0.006\sym{***}&      -0.016\sym{***}&      -0.003         \\
+                    &     (0.001)         &     (0.000)         &     (0.002)         &     (0.002)         \\
+\BLACKRACE               &       0.001         &      -0.005\sym{***}&      -0.011\sym{***}&      -0.002         \\
+                    &     (0.002)         &     (0.000)         &     (0.002)         &     (0.001)         \\
+\OTHERRACE               &      -0.004\sym{**} &      -0.007\sym{***}&      -0.003         &      -0.000         \\
+                    &     (0.002)         &     (0.000)         &     (0.003)         &     (0.002)         \\
+Constant            &       0.843\sym{***}&       0.916\sym{***}&       0.881\sym{***}&       0.882\sym{***}\\
+                    &     (0.001)         &     (0.000)         &     (0.001)         &     (0.001)         \\
+\midrule
+Observations        &     713,607         &  21,083,773         &     406,761         &     898,003         \\
+Adjusted R-squared  &       0.005         &       0.031         &       0.053         &       0.024         \\
+Fixed effects       &       C,Y,E         &       C,Y,E         &       C,Y,E         &       C,Y,E         \\
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+\end{tabular}
+}

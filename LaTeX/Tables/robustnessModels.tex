@@ -1,0 +1,30 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{2}{D{.}{.}{-1}}}
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{\shortstack{Auditors\\ DV = Hazard}}&\multicolumn{1}{c}{\shortstack{Auditors\\ DV = Retained}}\\
+\midrule
+\FEMALExPREX     &       0.062\sym{***}&      -0.011\sym{***}\\
+                    &     (0.008)         &     (0.001)         \\
+\FEMALExXtoXI    &       0.077\sym{***}&      -0.023\sym{***}\\
+                    &     (0.020)         &     (0.004)         \\
+\FEMALExXIItoXIII    &       0.007         &      -0.010\sym{***}\\
+                    &     (0.019)         &     (0.003)         \\
+\FEMALExXIVtoXV    &      -0.047\sym{***}&      -0.001         \\
+                    &     (0.018)         &     (0.003)         \\
+\FEMALExXVItoXVII    &      -0.094\sym{***}&       0.010\sym{***}\\
+                    &     (0.017)         &     (0.003)         \\
+\FEMALExXVIIItoXIX    &      -0.097\sym{***}&       0.012\sym{***}\\
+                    &     (0.017)         &     (0.003)         \\
+\FEMALExPOSTXIX    &      -0.094\sym{***}&       0.009\sym{***}\\
+                    &     (0.013)         &     (0.002)         \\
+Constant            &                     &       0.843\sym{***}\\
+                    &                     &     (0.001)         \\
+\midrule
+Observations        &     713,614         &     696,009         \\
+Adjusted R-squared  &                     &       0.007         \\
+Fixed effects       &         Y,E         &     C,E,Y*M         \\
+\\[-1.8ex]\hline \hline \\[-1.8ex]
+\end{tabular}
+}
